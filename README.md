@@ -1,7 +1,7 @@
-### Hi there, My name is Syed Mohammad Quadri
+## Hi there, I'm [Syed Mohammad Quadri][website]
 
 
-## I'm a,
+### I'm a,
 •  Full Stack web Developer ( MERN stack , ReactJS+Firebase )
 
 • Frontend Engineer ( HTML5 , CSS3 , JavaScript , ReactJS , jQuery , Bootstrap )
@@ -15,21 +15,13 @@
 • Robotic Process Automation - RPA Developer ( Automation Anywhere )
 
 
-## Iam looking to collaborate with other developers. Connect with me:
-[<img width=50 height=50 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783379-4c6e5480-1bbd-11eb-9e4a-f82d88a91f5c.png" />][linkedin]
-[<img width=60 height=50 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783099-71fa5e80-1bbb-11eb-8f2d-2627c5586e79.jpg" />][instagram]
-[<img width=50 height=50 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783351-1335e480-1bbd-11eb-9cfb-e0ccc12be64d.png" />][gmail]
-
-<br />
-
-<!-- ### Languages and Tools:
-[<img style="align:left" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />] -->
-
+### Iam looking to collaborate with other developers. Connect with me on:
+[<img width=45 height=45 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783379-4c6e5480-1bbd-11eb-9e4a-f82d88a91f5c.png" />][linkedin]
+[<img width=58 height=45 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783099-71fa5e80-1bbb-11eb-8f2d-2627c5586e79.jpg" />][instagram]
 
 
 <br />
-<br />
 
+[website]: https://www.smquadri.000webhostapp.com
 [linkedin]: https://www.linkedin.com/in/syed-mohammad-quadri-396417193/
 [instagram]: https://www.instagram.com/i.am_shahbaz/
-[gmail]: whitefalconsmq@gmail.com
