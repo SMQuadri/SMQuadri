@@ -16,12 +16,6 @@
 
 <br />
 
-### Iam looking to collaborate with other developers. Connect with me on:
-[<img width=45 height=45 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783379-4c6e5480-1bbd-11eb-9e4a-f82d88a91f5c.png" />][linkedin]
-[<img width=58 height=45 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783099-71fa5e80-1bbb-11eb-8f2d-2627c5586e79.jpg" />][instagram]
-
-<br />
-
 ### Skillset:
 [<img width=55 height=55 src="https://user-images.githubusercontent.com/55687431/97785438-fb655d00-1bca-11eb-95a8-dd989c2ae05e.png" />][example]
 [<img width=55 height=55 src="https://user-images.githubusercontent.com/55687431/97785449-09b37900-1bcb-11eb-9060-2ab9cbf7f29b.jpg" />][example]
@@ -46,6 +40,12 @@
 [<img width=55 height=55 src="https://user-images.githubusercontent.com/55687431/97786661-22279180-1bd3-11eb-9dd6-46e71881c7a4.png" />][example]
 [<img width=55 height=55 src="https://user-images.githubusercontent.com/55687431/97786995-3b314200-1bd5-11eb-9795-ce0000058ab4.png" />][example]
 [<img width=55 height=55 src="https://user-images.githubusercontent.com/55687431/97786711-7c285700-1bd3-11eb-8871-1cd2a86bf88d.jpg" />][example]
+
+<br />
+
+### Iam looking to collaborate with other developers. Connect with me on:
+[<img width=45 height=45 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783379-4c6e5480-1bbd-11eb-9e4a-f82d88a91f5c.png" />][linkedin]
+[<img width=58 height=45 alt="Instagram" src="https://user-images.githubusercontent.com/55687431/97783099-71fa5e80-1bbb-11eb-8f2d-2627c5586e79.jpg" />][instagram]
 
 
 [website]: https://www.smquadri.000webhostapp.com
